@@ -9,7 +9,7 @@ while(line != null){
 	
 }
 
-function splitInLetter(input){
+function splitInrwerewrewrwerwerwerwerwerew______________________ssSSASSLetter(input){
 	var res = ""
 	var s = input.toString()
 	for(var i=0; i<s.length; i++){
