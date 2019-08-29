@@ -9,7 +9,7 @@ while(line != null){
 	
 }
 
-function splitInLetter(input){
+function splitInLetter___423423423423423423423423432___4242342343242432(input){
 	var res = ""
 	var s = input.toString()
 	for(var i=0; i<s.length; i++){
