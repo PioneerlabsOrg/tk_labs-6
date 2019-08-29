@@ -2,14 +2,6 @@ var line = ""
 while(line != null){
 	try{
 	line = readline().split("\n")
-	splitInLetter(line)
-	} catch(e){
-		line = null
-	}
-	
-}
-
-function splitInLetter___423423423423423423423423432___4242342343242432(input){
 	var res = ""
 	var s = input.toString()
 	for(var i=0; i<s.length; i++){
@@ -19,6 +11,14 @@ function splitInLetter___423423423423423423423423432___4242342343242432(input){
 		}
 	}
 	print(res)
+	} catch(e){
+		line = null
+	}
+	
+}
+
+function splitInLetter___423423423423423423423423432___4242342343242432(input){
+	
 }
 
 function runCipher(input){
